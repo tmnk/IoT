@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\a1\\Desktop\\as\\android-sample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\a1\\Desktop\\as\\android-sample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\a1\\Desktop\\android-send-signal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\a1\\Desktop\\android-send-signal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

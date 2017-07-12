@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Switch1Theme" parent="Theme.AppCompat.Light">
+        <item name="android:colorControlActivated" tools:targetApi="lollipop">@android:color/holo_red_light</item>
+    </style>
+
+    <style name="Switch2Theme" parent="Theme.AppCompat.Light">
+        <item name="android:colorControlActivated" tools:targetApi="lollipop">@android:color/holo_green_dark</item>
+    </style>
+
+    <style name="Switch3Theme" parent="Theme.AppCompat.Light">
+        <item name="android:colorControlActivated" tools:targetApi="lollipop">@color/colorPrimaryDark</item>
+    </style>
+
+</resources>

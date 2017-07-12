@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\a1\Desktop\android-send-signal\iot-device-client\iot-device-client.jar"
+        revision="25.0.0"
+        sha1="558935bca2efe441f68e30849619df2c4cc8e9b6">
+        <dex dex="C:\Users\a1\Desktop\android-send-signal\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\iot-device-client-716c9fd94b341bee233dc1925d165ce234c51e12.jar" />
+    </item>
+    <item
+        jar="C:\Users\a1\.gradle\caches\modules-2\files-2.1\log4j\log4j\1.2.17\5af35056b4d257e4b64b9e8069c0746e8b08629f\log4j-1.2.17.jar"
+        revision="25.0.0"
+        sha1="5af35056b4d257e4b64b9e8069c0746e8b08629f">
+        <dex dex="C:\Users\a1\Desktop\android-send-signal\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\log4j-1.2.17-dd37005fc293c9ebc9e7790059aef26782a9680b.jar" />
+    </item>
+    <item
+        jar="C:\Users\a1\.gradle\caches\modules-2\files-2.1\com.microsoft.azure.sdk.iot.deps\iot-deps-serializer\0.3.3\ce2b656cdecad4d2da8951f4881ace986781a378\iot-deps-serializer-0.3.3.jar"
+        revision="25.0.0"
+        sha1="ce2b656cdecad4d2da8951f4881ace986781a378">
+        <dex dex="C:\Users\a1\Desktop\android-send-signal\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\iot-deps-serializer-0.3.3-50bf379d24bd228eb9b687f0e5e020e237ef98eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\a1\.android\build-cache\451fdff3606d96d454c98a8eb62c7c14159cf201\output\jars\libs\internal_impl-23.3.0.jar"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\a1\Desktop\android-send-signal\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-23.3.0-36068a26701dc7924c8d620b3136f62f654b3374.jar" />
+    </item>
+    <item
+        jar="C:\Users\a1\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.client.mqttv3\1.1.0\89d827ffa47c241f2627421ef1d6c7a8c207a341\org.eclipse.paho.client.mqttv3-1.1.0.jar"
+        revision="25.0.0"
+        sha1="89d827ffa47c241f2627421ef1d6c7a8c207a341">
+        <dex dex="C:\Users\a1\Desktop\android-send-signal\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\org.eclipse.paho.client.mqttv3-1.1.0-652117d72420495cbeac323be467a9cd2e8936cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\a1\AppData\Local\Android\Sdk\platforms\android-23\optional\org.apache.http.legacy.jar"
+        revision="25.0.0"
+        sha1="017030d11901291abf8f83a812984276b643ea0f">
+        <dex dex="C:\Users\a1\Desktop\android-send-signal\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-b9a3cb70573ef6d341ac032baa3c82988df77abe.jar" />
+    </item>
+    <item
+        jar="C:\Users\a1\.android\build-cache\3501e7fbe851f0c9470f00fb598f10768a8886c4\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\a1\Desktop\android-send-signal\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-6a00bb94037a0320a00b0fa2ada514809155b379.jar" />
+    </item>
+    <item
+        jar="C:\Users\a1\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\a1\Desktop\android-send-signal\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-23.3.0-a4ebf675b426f69e43e7592837e33e0a08b81323.jar" />
+    </item>
+    <item
+        jar="C:\Users\a1\.android\build-cache\451fdff3606d96d454c98a8eb62c7c14159cf201\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\a1\Desktop\android-send-signal\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-0bdf8d89481c767889610b16a99e598155aa713c.jar" />
+    </item>
+    <item
+        jar="C:\Users\a1\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
+        revision="25.0.0"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="C:\Users\a1\Desktop\android-send-signal\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\gson-2.8.1-be1796e9d8644306b9cbf59aa9613360014d9917.jar" />
+    </item>
+    <item
+        jar="C:\Users\a1\.android\build-cache\3d5861001047e5a4a55d858fd35ce1f157b116f8\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\a1\Desktop\android-send-signal\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-309609511a37659561136e6316d8c79230396ae1.jar" />
+    </item>
+    <item
+        jar="C:\Users\a1\.gradle\caches\modules-2\files-2.1\org.glassfish\javax.json\1.0.4\3178f73569fd7a1e5ffc464e680f7a8cc784b85a\javax.json-1.0.4.jar"
+        revision="25.0.0"
+        sha1="3178f73569fd7a1e5ffc464e680f7a8cc784b85a">
+        <dex dex="C:\Users\a1\Desktop\android-send-signal\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\javax.json-1.0.4-48416e50f4f6779ba40805e84b1ec4ae3c400f4c.jar" />
+    </item>
+    <item
+        jar="C:\Users\a1\.gradle\caches\modules-2\files-2.1\com.microsoft.azure.sdk.iot.deps\websocket-transport-layer\0.1.3\cc93b57af309d44ab8edb693185fa5bd0ee04866\websocket-transport-layer-0.1.3.jar"
+        revision="25.0.0"
+        sha1="cc93b57af309d44ab8edb693185fa5bd0ee04866">
+        <dex dex="C:\Users\a1\Desktop\android-send-signal\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\websocket-transport-layer-0.1.3-a3b2742c171a155dfd5b17ed21ffd5327d257176.jar" />
+    </item>
+    <item
+        jar="C:\Users\a1\.android\build-cache\5713f7bcbc4510dd047c64311873dd1edff707e4\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\a1\Desktop\android-send-signal\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-7b222d731a7edaa1b7c196e1d4aca12ce7c0e05f.jar" />
+    </item>
+    <item
+        jar="C:\Users\a1\.gradle\caches\modules-2\files-2.1\com.microsoft.azure.sdk.iot\iot-device-client\1.1.25\ab7103f43e91160791dcb5067a90eeed61c761a2\iot-device-client-1.1.25.jar"
+        revision="25.0.0"
+        sha1="ab7103f43e91160791dcb5067a90eeed61c761a2">
+        <dex dex="C:\Users\a1\Desktop\android-send-signal\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\iot-device-client-1.1.25-a73bd81ea717452d88c9fd0403d9dfca92b37edc.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar"
+        revision="25.0.0"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="C:\Users\a1\Desktop\android-send-signal\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\commons-codec-1.10-77183437e43d03fbf04d48242f704eeda6368256.jar" />
+    </item>
+    <item
+        jar="C:\Users\a1\AppData\Local\Android\Sdk\platforms\android-23\android.jar"
+        revision="25.0.0"
+        sha1="eee3e49de0e3c71c5f278ba7e4fe847483f9084c">
+        <dex dex="C:\Users\a1\Desktop\android-send-signal\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-7e46f261a0d636cc9910934c5eb469ca112e266d.jar" />
+    </item>
+    <item
+        jar="C:\Users\a1\.gradle\caches\modules-2\files-2.1\org.apache.qpid\proton-j\0.19.0\4fe826eede90baf50a8c4ce93fc3034b6eb57e15\proton-j-0.19.0.jar"
+        revision="25.0.0"
+        sha1="4fe826eede90baf50a8c4ce93fc3034b6eb57e15">
+        <dex dex="C:\Users\a1\Desktop\android-send-signal\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\proton-j-0.19.0-3195540f39692b26ed4f6e813fba9cf525e7f2f9.jar" />
+    </item>
+
+</items>

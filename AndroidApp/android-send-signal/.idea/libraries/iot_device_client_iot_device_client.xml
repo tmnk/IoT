@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="iot-device-client.iot-device-client">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/iot-device-client/iot-device-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

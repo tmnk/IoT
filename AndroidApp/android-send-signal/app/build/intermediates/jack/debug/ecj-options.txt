@@ -1,0 +1,7 @@
+"C:/Users/a1/Desktop/android-send-signal/app/src/main/java/com/iothub/azure/microsoft/com/androidsample/MainActivity.java"
+"C:/Users/a1/Desktop/android-send-signal/app/build/generated/source/r/debug/android/support/graphics/drawable/animated/R.java"
+"C:/Users/a1/Desktop/android-send-signal/app/build/generated/source/r/debug/android/support/graphics/drawable/R.java"
+"C:/Users/a1/Desktop/android-send-signal/app/build/generated/source/r/debug/android/support/v4/R.java"
+"C:/Users/a1/Desktop/android-send-signal/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java"
+"C:/Users/a1/Desktop/android-send-signal/app/build/generated/source/r/debug/com/iothub/azure/microsoft/com/androidsample/R.java"
+"C:/Users/a1/Desktop/android-send-signal/app/build/generated/source/buildConfig/debug/com/iothub/azure/microsoft/com/androidsample/BuildConfig.java"

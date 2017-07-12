@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="iot-deps-serializer-0.3.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.azure.sdk.iot.deps/iot-deps-serializer/0.3.3/ce2b656cdecad4d2da8951f4881ace986781a378/iot-deps-serializer-0.3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.azure.sdk.iot.deps/iot-deps-serializer/0.3.3/35ccc68e98336a80711d571f42cb9b018fc4436f/iot-deps-serializer-0.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
